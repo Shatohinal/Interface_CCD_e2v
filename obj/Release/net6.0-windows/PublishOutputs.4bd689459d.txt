@@ -1,0 +1,5 @@
+C:\Users\MrDuch\Desktop\Интерфейс\Интерфейс_программы.exe
+C:\Users\MrDuch\Desktop\Интерфейс\Интерфейс_программы.dll
+C:\Users\MrDuch\Desktop\Интерфейс\Интерфейс_программы.deps.json
+C:\Users\MrDuch\Desktop\Интерфейс\Интерфейс_программы.runtimeconfig.json
+C:\Users\MrDuch\Desktop\Интерфейс\Интерфейс_программы.pdb

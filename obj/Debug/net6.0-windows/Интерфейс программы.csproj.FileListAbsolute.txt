@@ -1,0 +1,18 @@
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\bin\Debug\net6.0-windows\Интерфейс программы.exe
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\bin\Debug\net6.0-windows\Интерфейс программы.deps.json
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\bin\Debug\net6.0-windows\Интерфейс программы.runtimeconfig.json
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\bin\Debug\net6.0-windows\Интерфейс программы.dll
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\bin\Debug\net6.0-windows\Интерфейс программы.pdb
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс программы.csproj.AssemblyReference.cache
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс программы.csproj.GenerateResource.cache
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс программы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс программы.AssemblyInfoInputs.cache
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс программы.AssemblyInfo.cs
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс программы.csproj.CoreCompileInputs.cache
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс программы.dll
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\refint\Интерфейс программы.dll
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс программы.pdb
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс программы.genruntimeconfig.cache
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\ref\Интерфейс программы.dll
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс_программы.LPI_to_e2v.resources
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс_программы.Cal_Poin.resources

@@ -1,0 +1,17 @@
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\bin\Debug\net6.0-windows\Интерфейс_программы.exe
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\bin\Debug\net6.0-windows\Интерфейс_программы.deps.json
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\bin\Debug\net6.0-windows\Интерфейс_программы.runtimeconfig.json
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\bin\Debug\net6.0-windows\Интерфейс_программы.dll
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\bin\Debug\net6.0-windows\Интерфейс_программы.pdb
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс_программы.Cal_Poin.resources
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс_программы.LPI_to_e2v.resources
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс_программы.csproj.GenerateResource.cache
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс_программы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс_программы.AssemblyInfoInputs.cache
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс_программы.AssemblyInfo.cs
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс_программы.csproj.CoreCompileInputs.cache
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс_программы.dll
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\refint\Интерфейс_программы.dll
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс_программы.pdb
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\Интерфейс_программы.genruntimeconfig.cache
+C:\Users\MrDuch\source\repos\2\Интерфейс программы\obj\Debug\net6.0-windows\ref\Интерфейс_программы.dll
